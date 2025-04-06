@@ -40,7 +40,7 @@ A simple, elegant, and feature-rich task management app to help you stay product
 
 ## 🚀 Live Demo
 
-[Click here to try the Task Planner Web app demo](https://palak-99.github.io/countdown-timer/)  
+[Click here to try the Task Planner Web app demo](https://palak-99.github.io/task-planner/)  
 
 ---
 
