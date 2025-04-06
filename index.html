@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Planner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1>My Task Planner</h1>
+            <button id="toggle-theme">🌙</button>
+        </header>
+
+        <div class="task-input">
+            <input type="text" id="task-input" placeholder="Enter a new task">
+            <button id="add-task">Add Task</button>
+        </div>
+
+        <ul id="task-list"></ul>
+    </div>
+
+    <audio id="timer-sound" src="https://actions.google.com/sounds/v1/alarms/alarm_clock.ogg" preload="auto"></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
