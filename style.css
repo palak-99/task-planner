@@ -74,7 +74,6 @@ ul#task-list {
     margin: 0;
 }
 
-/* Task Item Styles */
 .task-item {
     background: #f9f9f9;
     border: 1px solid #ddd;
@@ -118,7 +117,6 @@ ul#task-list {
     transform: scale(1.2);
 }
 
-/* Timer Section */
 .timer-wrapper {
     display: flex;
     flex-wrap: wrap;
@@ -150,13 +148,12 @@ ul#task-list {
     background-color: #d0d0d0;
 }
 
-/* Completed task style */
+
 .task-item.completed .task-text {
     text-decoration: line-through;
     opacity: 0.6;
 }
 
-/* Dark Mode Styles */
 body.dark {
     background-color: #1f1f1f;
     color: white;
